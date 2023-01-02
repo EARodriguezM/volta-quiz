@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "245184640165",
+    "project_id": "quizzle-test",
+    "storage_bucket": "quizzle-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245184640165:android:2232641f110ab7a6a6094c",
+        "android_client_info": {
+          "package_name": "com.example.quizzledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245184640165-582thcduq28ikjeih81f91777pg5buuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizzledemo",
+            "certificate_hash": "9775a2dcdb752b8d2d7b1cd8bc27f069bd1bcfa1"
+          }
+        },
+        {
+          "client_id": "245184640165-ci21ntd78u5das0jv4s8d6mtfod2du0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXVviEpZ63Vjt21Y9ksSU7FwFLJWePw2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245184640165-ci21ntd78u5das0jv4s8d6mtfod2du0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245184640165-77u4vne4v69jkg1s86p86sud3ooashkl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voltaQuiz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245184640165:android:c0841f75a8fbc67da6094c",
+        "android_client_info": {
+          "package_name": "com.example.volta_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245184640165-ci21ntd78u5das0jv4s8d6mtfod2du0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXVviEpZ63Vjt21Y9ksSU7FwFLJWePw2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245184640165-ci21ntd78u5das0jv4s8d6mtfod2du0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245184640165-77u4vne4v69jkg1s86p86sud3ooashkl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voltaQuiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
