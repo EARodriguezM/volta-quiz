@@ -1,0 +1,235 @@
+{
+    "id": "ppr002",
+    "title": "Categoria 2",
+    "image_url": "",
+    "Description": "Conjunto de ejercicios basicos sobre la Ley de corrientes de Kirchoff",
+    "time_seconds": 900,
+    
+    "questions": [
+        {
+            "id": "ppr002q001",
+            "question": "Cuanto vale i?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "-4 mA"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "2 mA"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "4 mA"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "8 mA"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q002",
+            "question": "Cuanto vale i5?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "-6 mA"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "0 mA"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "6 mA"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "9 mA"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr002q003",
+            "question": "Cuanto vale i3?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "-6 mA"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "0 mA"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "6 mA"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "12 mA"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q004",
+            "question": "Para el circuito que se muestra, las resistencias son R1 > R2 > R3. ¿Qué es verdadero acerca de la corriente que pasa a través de cada resistor?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I1 < I2 < I3"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "I1 > I2 > I3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "I1 = I2 = I3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "I1 > I3 > I2"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q005",
+            "question": "Para el circuito que se muestra, las resistencias son R1 > R2 > R3 > R4. ¿Qué es verdadero acerca de la corriente que pasa a través de cada resistor?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I1 > I2 > I3 > I4"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "I1 > I3 > I2 > I4"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "I1 = I4 > I2 = I3"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "I1 = I4 > I3 > I2"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr002q006",
+            "question": "Cuatro resistores idénticos se conectan a una batería como se mostraron.¿Cómo se comparan las corrientes en las ubicaciones etiquetadas?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I1 = I2 > I3 = I4"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "I4 = I1 > I2 = I3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "I1 > I2 = I3 > I4"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "I4 > I1 = I2 = I3"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr002q007",
+            "question": "Cuatro resistores idénticos se conectan a una batería como se mostraron.¿Cómo se comparan las corrientes en las ubicaciones etiquetadas?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I2 = I3 > I1 = I4"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "I1 = I4 > I2 = I3"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "I1 > I2 > I3 > I4"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "I4 >I2 > I3 > I1"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr002q008",
+            "question": "Para el circuito que se muestra, la corriente que sale la batería es de 4 A, y la corriente que pasa a través del resistor de 6 Ω, es de 1 A. ¿Qué corriente pasa a través de R3?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "4 A"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "5 A"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3 A"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "2 A"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr002q009",
+            "question": "Para el circuito que se muestra, la corriente a través de la rama con los resistores de 1Ω y de 2Ω, es de 4 A y la corriente hacia afuera del nodo es de 6 A. ¿Qué corriente pasa a través del resistor de 6 Ω?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "2 A"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "8 A"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "4 A"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "6 A"
+                }
+            ],
+            "correct_answer": "A"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "id": "ppr001",
+    "title": "Categoria 1",
+    "image_url": "",
+    "Description": "Conjunto de ejercicios basicos sobre la Ley de Ohm para afianzar los conocimientos teoricos y practicos sobre la relación de la corriente, la resistencia y la tension en un circuito electrico.",
+    "time_seconds": 300,
+    
+    "questions": [
+        {
+            "id": "ppr001q001",
+            "question": "Se define como el flujo de electrones o movimiento de los mismos",
+            "image_url": "",
+            "question_type": "text",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Intensidad"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Resistencia"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Tension"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Potencia"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q002",
+            "question": "¿Cual es la unidad de medida de la diferencia de potencial electrico en un circuito?",
+            "image_url": "",
+            "question_type": "text",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Ohm"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Amperio"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Voltio"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Watt"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "ppr001q003",
+            "question": "Para medir la intensidad de corriente en un circuito, el instrumento (multimetro) efectúa una medición en: ",
+            "image_url": "",
+            "question_type": "text",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Serie"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "Paralelo"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Conexión mixta"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Conexión dual"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "ppr001q004",
+            "question": "Un estudiante construye un circuito simple con un solo resistor con resistencia 2R y mide una diferencia de potencial eléctrico ΔV a través del resistor. Después, el estudiante reemplaza el resistor con uno nuevo de resistencia R/2 y mantiene la diferencia de potencial eléctrico igual. ¿Cuál es la corriente I a través del nuevo circuito en términos de la corriente original i?",
+            "image_url": "",
+            "question_type": "text",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "I = i / 16"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "I = i / 4"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "I = 16i"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "I = 4i"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr001q005",
+            "question": "Un estudiante construye un circuito simple con un solo resistor de resistencia R y corriente I,  y mide una diferencia de potencial eléctrico Δv a través del resistor. Después, el estudiante incrementa la corriente a través del circuito a 2I. ¿Cómo se compara la diferencia de potencial eléctrico a través el resistor ΔV del nuevo circuito con Δv del circuito original?",
+            "image_url": "",
+            "question_type": "text",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "ΔV = Δv/2"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "ΔV = 2Δv"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "ΔV = Δv/4"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "ΔV = 4Δv"
+                }
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

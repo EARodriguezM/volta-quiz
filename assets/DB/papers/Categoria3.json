@@ -1,0 +1,135 @@
+{
+    "id": "ppr003",
+    "title": "Categoria 3",
+    "image_url": "",
+    "Description": "Conjunto de ejercicios basicos sobre los circuitos RL",
+    "time_seconds": 900,
+    
+    "questions": [
+        {
+            "id": "ppr003q001",
+            "question": "¿Cuánto vale i y v si el interruptor está cerrado?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "3 mA y 2 V"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "8 mA y 0 V"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "4 mA y 2 V"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1 mA y 0 V"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q002",
+            "question": "Teniendo en cuenta el ejercicio anterior ¿Cuánto vale i en el inductor el instante posterior a que abrimos el interruptor?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1 mA"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "4 mA"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "3 mA"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "8 mA"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr003q003",
+            "question": "Teniendo en cuenta el ejercicio anterior ¿Cuál es el valor de la constante tiempo τ?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "80 s"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "80 ns"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "80 ms"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "8 s"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "ppr003q004",
+            "question": "¿Cual de las siguientes expresiones es correcta para i(t) despues de t=0?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "0.008 e^(-t/80)"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "0.008 e^(-200t/(16x10^-6))"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "0.008 e^(-t/8)"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "0.008 e^(-200t/(16x10^-3))"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "ppr003q005",
+            "question": "¿Cual de las siguientes expresiones es correcta para v(t) despues de t=0?",
+            "image_url": "",
+            "question_type": "image",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "1.6 e^(-200t/(16x10^-3))"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "1.6 e^(-t/8)"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "1.6 e^(-200t/(16x10^-6))"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "1.6 e^(-t/80)"
+                }
+            ],
+            "correct_answer": "C"
+        }
+    ]
+}
