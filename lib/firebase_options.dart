@@ -25,10 +25,7 @@ class DefaultFirebaseOptions {
       case TargetPlatform.iOS:
         return ios;
       case TargetPlatform.macOS:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for macos - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
+        return macos;
       case TargetPlatform.windows:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for windows - '
@@ -58,7 +55,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCXVviEpZ63Vjt21Y9ksSU7FwFLJWePw2Q',
-    appId: '1:245184640165:android:2232641f110ab7a6a6094c',
+    appId: '1:245184640165:android:c0841f75a8fbc67da6094c',
     messagingSenderId: '245184640165',
     projectId: 'quizzle-test',
     storageBucket: 'quizzle-test.appspot.com',
@@ -66,11 +63,23 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCIU0Hhqk3_a-4f4_tpvUnsH03zFYLpQ4s',
-    appId: '1:245184640165:ios:3925e404911b1afca6094c',
+    appId: '1:245184640165:ios:b7e0a9872e4c6021a6094c',
     messagingSenderId: '245184640165',
     projectId: 'quizzle-test',
     storageBucket: 'quizzle-test.appspot.com',
-    iosClientId: '245184640165-eo6t9g0ovnqhc0g40s5dl3upclj5fri8.apps.googleusercontent.com',
-    iosBundleId: 'com.codefox.quizzle',
+    androidClientId: '245184640165-582thcduq28ikjeih81f91777pg5buuf.apps.googleusercontent.com',
+    iosClientId: '245184640165-77u4vne4v69jkg1s86p86sud3ooashkl.apps.googleusercontent.com',
+    iosBundleId: 'com.example.voltaQuiz',
+  );
+
+  static const FirebaseOptions macos = FirebaseOptions(
+    apiKey: 'AIzaSyCIU0Hhqk3_a-4f4_tpvUnsH03zFYLpQ4s',
+    appId: '1:245184640165:ios:b7e0a9872e4c6021a6094c',
+    messagingSenderId: '245184640165',
+    projectId: 'quizzle-test',
+    storageBucket: 'quizzle-test.appspot.com',
+    androidClientId: '245184640165-582thcduq28ikjeih81f91777pg5buuf.apps.googleusercontent.com',
+    iosClientId: '245184640165-77u4vne4v69jkg1s86p86sud3ooashkl.apps.googleusercontent.com',
+    iosBundleId: 'com.example.voltaQuiz',
   );
 }
