@@ -3,16 +3,16 @@
 <!-- <i>Description of repository.</i> -->
 
 
-<a href="https://github.com/EARodriguezM/volta-quiz/stargazers"><img src="https://img.shields.io/github/stars/EARodriguezM/thermo-register" alt="Stars Badge"/></a>
-<a href="https://github.com/EARodriguezM/volta-quiz/network/members"><img src="https://img.shields.io/github/forks/EARodriguezM/thermo-register" alt="Forks Badge"/></a>
-<a href="https://github.com/EARodriguezM/volta-quiz/pulls"><img src="https://img.shields.io/github/issues-pr/EARodriguezM/thermo-register" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/EARodriguezM/volta-quiz/issues"><img src="https://img.shields.io/github/issues/EARodriguezM/thermo-register" alt="Issues Badge"/></a>
-<a href="https://github.com/EARodriguezM/volta-quiz/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/EARodriguezM/thermo-register?color=2b9348"></a>
-<a href="https://github.com/EARodriguezM/volta-quiz/blob/master/LICENSE"><img src="https://img.shields.io/github/license/EARodriguezM/thermo-register?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/EARodriguezM/volta-quiz/stargazers"><img src="https://img.shields.io/github/stars/EARodriguezM/volta-quiz" alt="Stars Badge"/></a>
+<a href="https://github.com/EARodriguezM/volta-quiz/network/members"><img src="https://img.shields.io/github/forks/EARodriguezM/volta-quiz" alt="Forks Badge"/></a>
+<a href="https://github.com/EARodriguezM/volta-quiz/pulls"><img src="https://img.shields.io/github/issues-pr/EARodriguezM/volta-quiz" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/EARodriguezM/volta-quiz/issues"><img src="https://img.shields.io/github/issues/EARodriguezM/volta-quiz" alt="Issues Badge"/></a>
+<a href="https://github.com/EARodriguezM/volta-quiz/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/EARodriguezM/volta-quiz?color=2b9348"></a>
+<a href="https://github.com/EARodriguezM/volta-quiz/blob/master/LICENSE"><img src="https://img.shields.io/github/license/EARodriguezM/volta-quiz?color=2b9348" alt="License Badge"/></a>
 
 <!-- <a href="https://github.com/EARodriguezM/volta-quiz/blob/main/enREADME.md"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Spanish README &color=%230076D6&style=flat&logo=google-chrome&logoColor=green" alt="website"/></a> -->
 
-<!-- <img src="http://hits.dwyl.com/EARodriguezM/thermo-register.svg" alt="Hits Badge"/> -->
+<!-- <img src="http://hits.dwyl.com/EARodriguezM/volta-quiz.svg" alt="Hits Badge"/> -->
 
 <i>Loved the project? Please consider giving a Star ⭐️ to help it improve!</i>
 
